@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\.venv",
+    "\\blog",
+    "\\blog\\migrations",
+    "\\blog\\templates",
+    "\\blog\\templates\\blog",
+    "\\mysite"
+  ],
+  "SelectedNode": "\\blog\\templates\\blog\\post_list.html",
+  "PreviewInSolutionExplorer": false
+}
